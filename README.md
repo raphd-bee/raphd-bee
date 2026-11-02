@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently a beginner in coding <br>I'm learning Java, HTML/CSS, JavaScript, SQL<br><br>Ask me about anything
+I'm currently a beginner <br> But I learn Java, HTML/CSS, JavaScript, SQL<br>
+I'm currently working in AI master in Padova <br>Ask me about anything
 
 
 ## 🌐 Socials:
